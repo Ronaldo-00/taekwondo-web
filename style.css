@@ -5,6 +5,9 @@
     font-family: sans-serif;
 }
 /*---header css--*/
+header{
+    background-color: #fcde67;
+}
 .navbar{
     width: 80%;
     margin: auto;
@@ -93,7 +96,7 @@
 .main{
     width: 100%;
     height: auto;
-    background-color: #ffffff;
+    background-color: #fcde67;
 }
 .container{
     width: 80%;
@@ -427,7 +430,7 @@ footer{
     text-align: center;
     font-size: 45px;
     color: #303030;
-    margin:30px 0 30px 0;
+    padding:30px 0 30px 0;
 }
 .cls p{
     color: #303030;
